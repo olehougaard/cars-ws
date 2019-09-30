@@ -5,7 +5,6 @@ import java.net.URL;
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
 
-import dk.via.cars.CarDTO;
 import dk.via.cars.ws.Cars;
 
 public class CarsTest {
